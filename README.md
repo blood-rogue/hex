@@ -2,14 +2,20 @@
 
 A hex-viewer for the cli
 
-## Installtion Prequisites
-- A rust installtion (with `cargo`).
-- `git`
+## Installation Prequisites
+- A valid rust installtion.
+- `git` to be installed on the system.
 
-## Installtion
+## Installation
 
-`git clone --shallow https://github.com/blood-rogue/hex.git`
+```sh
+git clone --shallow https://github.com/blood-rogue/hex.git
+```
 
-`cd hex`
+```sh
+cd hex
+```
 
-`cargo insatll --path .`
+```sh
+cargo insatll --path .
+```
